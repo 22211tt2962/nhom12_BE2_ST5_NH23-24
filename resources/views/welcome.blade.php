@@ -69,7 +69,8 @@ li.dropdown {
   <li><a href="lienhe">Liên hệ</a></li>
 </ul>
 
-<h1>Đây là trang giới thiệu.</h1>
+<h1>Đây là trang chủ.</h1>
+
 </body>
 </html>
 

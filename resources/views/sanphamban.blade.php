@@ -57,16 +57,16 @@ li.dropdown {
 <body>
 
 <ul>
-  <li><a href="index.blade.php">Trang chủ</a></li>
-  <li><a href="gioithieu.blade.php">Giới Thiệu</a></li>
+  <li><a href="index">Trang chủ</a></li>
+  <li><a href="gioithieu">Giới Thiệu</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Sản phẩm</a>
     <div class="dropdown-content">
-      <a href="sanphamban.blade.php">Bàn</a>
-      <a href="sanphamghe.blade.php">Ghế</a>
+      <a href="sanphamban">Bàn</a>
+      <a href="sanphamghe">Ghế</a>
     </div>
   </li>
-  <li><a href="lienhe.blade.php">Liên hệ</a></li>
+  <li><a href="lienhe">Liên hệ</a></li>
 </ul>
 
 <h1>Đây là trang sản phẩm bàn.</h1>
